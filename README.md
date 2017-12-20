@@ -1,2 +1,2 @@
-# schema-changes
-changes on the original
+# Schema Changes
+Reference: https://developers.google.com/search/docs/guides/search-gallery
