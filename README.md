@@ -1,9 +1,8 @@
-# Schema Changes
+# HTML example pages search engines and social media sites
 
 
-- [Google Gallery Search)https://developers.google.com/search/docs/guides/search-gallery)
+- [Google Gallery Search](https://developers.google.com/search/docs/guides/search-gallery)
 - [Google Structured data Testing Tool](https://search.google.com/structured-data/testing-tool#)
-
 
 ## Schemas
 
